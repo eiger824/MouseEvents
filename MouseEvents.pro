@@ -29,3 +29,7 @@ SOURCES += main.cpp\
 HEADERS  += mainwindow.h
 
 FORMS    += mainwindow.ui
+
+target.path = /home/root
+INSTALLS += target
+
